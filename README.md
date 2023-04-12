@@ -1,2 +1,2 @@
-# Hidden-Morkov-Model
-HMM from scratch in Python using Greedy and Viterbi algorithms 
+# Hidden-Morkov-Model-from-scratch
+HMM from scratch in Python using Greedy and Viterbi algorithms.
